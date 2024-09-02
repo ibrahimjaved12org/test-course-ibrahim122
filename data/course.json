@@ -4,7 +4,11 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Business"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [],
@@ -16,7 +20,11 @@
   },
   "course_title": "test-course-ibrahim122",
   "hide_download": true,
-  "mit_learn_topics": [],
+  "mit_learn_topics": [
+    [
+      "Art, Design & Architecture"
+    ]
+  ],
   "course_description": "test-course-ibrahim122",
   "department_numbers": [
     "1"
